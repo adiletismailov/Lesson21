@@ -33,7 +33,7 @@ public class Main {
         } catch (InputMismatchException e) {
             e.printStackTrace();
         } catch (Exception e){
-            System.out.println("Oshibka");
+            System.out.println("Error!");
         }
     }
 }
